@@ -2,9 +2,7 @@
 
 Bioinformática aplicada
 
-<span>
 ![bia_logo](./images/bia_logo.svg)
-</span>
 
 ```bash
 cd unit_4
