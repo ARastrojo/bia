@@ -1,4 +1,19 @@
 
+### Conexión PC virtuales
+
+- Requisitos máquinas locales UAM (ninguno, está todo listo)
+	- En la complu se van a conectar desde sus "portátiles"
+	- ¿Cómo le damos acceso a los docentes de la UCM si no tienen VPN-UAM?
+
+- Requisitos para Windows (UDS y Microsotf remote Desktop)
+- Requisitos para Mac (ver manual MUBBC)
+- Requisitos Linux?? Yo lo hice desde mi viejo mac con Xubuntu (no creo que nadie quiera)
+
+
+
+
+
+
 ### Cursos linux
 https://mural.uv.es/oshuso/81_introduccin_a_linux.html
 https://ayudalinux.com/estructura-sistema-archivos/
