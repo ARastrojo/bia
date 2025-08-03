@@ -31,3 +31,9 @@ https://eu-north-1.console.aws.amazon.com/ec2/
 Para probar linux: 
 
 https://www.onworks.net/es/os-distributions/ubuntu-based
+
+
+#### Extensiones para el navegador para testar comandos Linux
+https://chromewebstore.google.com/detail/secure-shell/iodihamcpbpeioajjeobimgagajmlibd
+https://chromewebstore.google.com/detail/iodihamcpbpeioajjeobimgagajmlibd?utm_source=item-share-cb
+https://addons.mozilla.org/es-ES/firefox/addon/xlinux-console-terminal/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search
