@@ -5,7 +5,7 @@
 	- En la complu se van a conectar desde sus "portátiles"
 	- ¿Cómo le damos acceso a los docentes de la UCM si no tienen VPN-UAM?
 
-- Requisitos para Windows (UDS y Microsotf remote Desktop)
+- Requisitos para Windows (UDS y Microsotf remote Desktop (ahora Windows app))
 - Requisitos para Mac (ver manual MUBBC)
 - Requisitos Linux?? Yo lo hice desde mi viejo mac con Xubuntu (no creo que nadie quiera)
 

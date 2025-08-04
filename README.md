@@ -15,12 +15,13 @@ Bioinformática aplicada
 - [Curso Universidad Valencia](https://mural.uv.es/oshuso/81_introduccin_a_linux.html)
 - [Ayuda Linux](https://ayudalinux.com/)
 - [Linux Commands](https://linuxconfig.org/linux-commands)
-- [Linux Fundation](https://www.linuxfoundation.org/blog/blog/classic-sysadmin-the-linux-filesystem-explained)
+- [Free code camp](https://www.freecodecamp.org/espanol/news/comandos-de-linux/?
 
 ### Probar Linux online
 
-- [Distrosea](https://distrosea.com): muchas distrobuciones de Linux para probar. 
-- [OnWorks](https://www.onworks.net/): varios sistemas operativos para probar como Linux, Windows, MacOs (en realidad PearOS, que es un clon), etc. 
+- [PC Virtuales UAM](https://pc-virtual.uam.es/): además de la máquina virtual creada para este curso, existe la opción de conectarse a una máquina con _Ubuntu_.  
+- [Distrosea](https://distrosea.com): muchas distrobuciones de Linux para probar.  
+- [OnWorks](https://www.onworks.net/): varios sistemas operativos para probar como Linux, Windows, MacOs (en realidad PearOS, que es un clon), etc.  
 
 ### Extensiones para el navegador para testar comandos Linux
 
