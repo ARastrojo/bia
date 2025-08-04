@@ -12,10 +12,11 @@ Bioinformática aplicada
 
 ### Cursos linux
 
-- [Curso Universidad Valencia](https://mural.uv.es/oshuso/81_introduccin_a_linux.html)
-- [Ayuda Linux](https://ayudalinux.com/)
-- [Linux Commands](https://linuxconfig.org/linux-commands)
-- [Free code camp](https://www.freecodecamp.org/espanol/news/comandos-de-linux/?
+- [Curso Universidad Valencia](https://mural.uv.es/oshuso/81_introduccin_a_linux.html)  
+- [Ayuda Linux](https://ayudalinux.com/)  
+- [Linux Commands](https://linuxconfig.org/linux-commands)  
+- [Free code camp](https://www.freecodecamp.org/espanol/news/comandos-de-linux/)  
+- [Ayuda Ubuntu](https://www.guia-ubuntu.com/index.php/Comandos)  
 
 ### Probar Linux online
 
