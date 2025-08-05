@@ -22,7 +22,7 @@ Bioinformática aplicada
 
 - [PC Virtuales UAM](https://pc-virtual.uam.es/): además de la máquina virtual creada para este curso, existe la opción de conectarse a una máquina con _Ubuntu_.  
 - [Distrosea](https://distrosea.com): muchas distrobuciones de Linux para probar.  
-- [OnWorks](https://www.onworks.net/): varios sistemas operativos para probar como Linux, Windows, MacOs (en realidad PearOS, que es un clon), etc.  
+- [OnWorks](https://www.onworks.net/): varios sistemas operativos para probar como Linux, Windows (un clon de Windows 10), MacOs (en realidad PearOS, que es un clon), etc.  
 
 ### Extensiones para el navegador para testar comandos Linux
 
