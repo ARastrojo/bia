@@ -17,6 +17,8 @@ Bioinformática aplicada
 - [Linux Commands](https://linuxconfig.org/linux-commands)  
 - [Free code camp](https://www.freecodecamp.org/espanol/news/comandos-de-linux/)  
 - [Ayuda Ubuntu](https://www.guia-ubuntu.com/index.php/Comandos)  
+<!-- [Otro curso](https://rsg-ecuador.github.io/unix.bioinfo.rsgecuador/content/Curso_basico/01_Unix_GNU-Linux/0_Resumen.html)-->
+
 
 ### Probar Linux online
 

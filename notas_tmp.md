@@ -33,3 +33,8 @@ Tema 5. Nuevas herramientas genéticas adaptadas a la biología celular. (aprox.
 ### Manual para crear cuenta gratuita en AWS (opcinal)
 AWS Free Tier (750h,  5Gb): https://aws.amazon.com/es/free/
 https://eu-north-1.console.aws.amazon.com/ec2/
+
+
+### Galaxy
+
+- [Galaxy Europa](https://usegalaxy.eu/)

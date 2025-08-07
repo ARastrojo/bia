@@ -1,0 +1,254 @@
+country	currency	population	density	area	gdp	language	driving_side	continent	un_member	religion
+China	Chinese Yuan	1413142846	147.2	9596960	17963170	Chinese	right	Asia	TRUE	No Religion
+India	Indian Rupee	1399179585	425.6	3287263	3465541	Hindi	left	Asia	TRUE	Hinduism
+United States	United States Dollar	339665118	34.5	9833517	25744100	English	right	North America	TRUE	Christianity
+Indonesia	Rupiah	279476346	146.7	1904569	1319100	Indonesian	left	Asia	TRUE	Islam
+Pakistan	Pakistani Rupee	247653551	311.1	796095	326796	Urdu	left	Asia	TRUE	Islam
+Nigeria	Naira	230842743	249.9	923768	15414	English	right	Africa	TRUE	Christianity
+Brazil	Brazilian Real	218689757	25.7	8515770	1920095	Portuguese	right	South America	TRUE	Christianity
+Bangladesh	Bangladeshi Taka	167184465	1126.1	148460	432677	Bengali	left	Asia	TRUE	Islam
+Russia	Russian Ruble	141698923	8.3	17098242	2240422	Russian	right	Europe	TRUE	Christianity
+Mexico	Mexican Peso	129875529	66.1	1964375	1463323	Spanish	right	North America	TRUE	Christianity
+Japan	Japanese Yen	123719238	327.4	377915	4232173	Japanese	left	Asia	TRUE	No Religion
+Ethiopia	Bir	116462712	105.5	1104300	118971	Amharic	right	Africa	TRUE	Christianity
+Philippines	Philippine Peso	116434200	388.1	300000	404284	Filipino	right	Asia	TRUE	Christianity
+Democratic Republic of the Congo	Congolese Franc	111859928	47.7	2344858	62551	French	right	Africa	TRUE	Christianity
+Egypt	Egyptian Pound	109546720	109.4	1001450	409306	Arabic	right	Africa	TRUE	Islam
+Vietnam	Vietnamese Dong	104799174	316.4	331210	408802	Vietnamese	right	Asia	TRUE	No Religion
+Iran	Iranian Rial	87590873	53.1	1648195	398047	Persian	right	Asia	TRUE	Islam
+Germany	Euro	84220184	235.9	357022	4076923	German	right	Europe	TRUE	Christianity
+Turkey	Turkish Lira	83593483	106.7	783562	907118	Turkish	right	Asia	TRUE	Islam
+Thailand	Thai Baht	69794997	136	513120	495340	Thai	left	Asia	TRUE	Buddhism
+France	Euro	68521974	106.4	643801	2775316	French	right	Europe	TRUE	Christianity
+United Kingdom	British Pound	68138484	279.7	243610	3089072	English	left	Europe	FALSE	Christianity
+Tanzania	Tanzanian Shilling	65642682	69.3	947300	2361	Swahili	left	Africa	TRUE	Christianity
+Italy	Euro	61021855	202.5	301340	2046952	Italian	right	Europe	TRUE	Christianity
+South Africa	Rand	58048332	47.6	1219090	405270	Zulu	left	Africa	TRUE	Christianity
+Myanmar	Kyat	57970293	85.7	676578	65211	Burmese	right	Asia	TRUE	Buddhism
+Kenya	Kenyan Shilling	57052004	98.3	580367	113419	English	left	Africa	TRUE	Christianity
+South Korea	South Korean Won	51966948	521.1	99720	1673916	Korean	right	Asia	TRUE	No Religion
+Colombia	Colombian Peso	49336454	43.3	1138910	343939	Spanish	right	South America	TRUE	Christianity
+Sudan	Sudanese Pound	49197555	26.4	1861484	36729	Arabic	right	Africa	TRUE	Islam
+Uganda	Ugandan Shilling	47729952	198	241038	48243	English	left	Africa	TRUE	Christianity
+Spain	Euro	47222613	93.4	505370	1415874	Spanish	right	Europe	TRUE	Christianity
+Argentina	Argentine Convertible Peso	46621847	16.8	2780400	631133	Spanish	right	South America	TRUE	Christianity
+Algeria	Algerian Dinar	44758398	18.8	2381740	191912	Arabic	right	Africa	TRUE	Islam
+Ukraine	Hryvnia	43306477	71.8	603550	160502	Ukrainian	right	Europe	TRUE	Christianity
+Iraq	Iraqi Dinar	41266109	94.1	438317	264182	Arabic	right	Asia	TRUE	Islam
+Afghanistan	Afghani	39232003	60.2	652230	14174	Pashto	right	Asia	TRUE	Islam
+Canada	Canadian Dollar	38516736	3.9	9984670	2137939	English	right	North America	TRUE	Christianity
+Poland	Polish Zloty	37991766	121.5	312685	688125	Polish	right	Europe	TRUE	Christianity
+Morocco	Moroccan Dirham	37067420	51.7	716550	130912	Arabic	right	Africa	TRUE	Islam
+Angola	Kwanza	35981281	28.9	1246700	113304	Portuguese	right	Africa	TRUE	Christianity
+Saudi Arabia	Saudi Riyal	35939806	16.7	2149690	1108148	Arabic	right	Asia	TRUE	Islam
+Malaysia	Malaysian Ringgit	34219975	103.7	329847	406305	Malay	left	Asia	TRUE	Islam
+Ghana	Ghana Cedi	33846114	141.9	238533	73766	English	right	Africa	TRUE	Christianity
+Mozambique	Mozambican Metical	32513805	40.7	799380	18406	Portuguese	left	Africa	TRUE	Christianity
+Peru	Nuevo Sol	32440172	25.2	1285216	242631	Spanish	right	South America	TRUE	Christianity
+Yemen	Yemeni Rial	31565602	59.8	527968	11007	Arabic	right	Asia	TRUE	Islam
+Uzbekistan	Uzbekistani Som	31360836	70.1	447400	80391	Uzbek	right	Asia	TRUE	Islam
+Nepal	Nepalese Rupee	30899443	209.9	147181	39406	Nepali	left	Asia	TRUE	Hinduism
+Venezuela	Sovereign Bolivar	30518260	33.5	912050	129313	Spanish	right	South America	TRUE	Christianity
+Cameroon	Central African Cfa Franc	30135732	63.4	475440	44341	English	right	Africa	TRUE	Christianity
+Ivory Coast	West African Cfa Franc	29344847	91	322463	70018	French	right	Africa	TRUE	Islam
+Madagascar	Ariary	28812195	49.1	587041	14954	Malagasy	right	Africa	TRUE	Christianity
+Australia	Australian Dollar	26461166	3.4	7741220	1776577	English	left	Oceania	TRUE	Christianity
+North Korea	North Korean Won	26072217	216.3	120538	15176	Korean	right	Asia	TRUE	No Religion
+Niger	West African Cfa Franc	25396840	20	1267000		French	right	Africa	TRUE	Islam
+Taiwan	New Taiwan Dollar	23588613	655.6	35980	775017	Chinese	right	Asia	TRUE	Buddhism
+Sri Lanka	Sri Lankan Rupee	23326272	355.5	65610	76187	Sinhala	left	Asia	TRUE	Buddhism
+Syria	Syrian Pound	22933531	122.4	187437	18595	Arabic	right	Asia	TRUE	Islam
+Burkina Faso	West African Cfa Franc	22489126	82	274200	19176	French	right	Africa	TRUE	Islam
+Mali	West African Cfa Franc	21359722	17.2	1240192	18827	French	right	Africa	TRUE	Islam
+Malawi	Malawian Kwacha	21279597	179.6	118484	12558	English	left	Africa	TRUE	Christianity
+Zambia	Zambian Kwacha	20216029	26.9	752618	29136	English	left	Africa	TRUE	Christianity
+Kazakhstan	Kazakhstani Tenge	19543464	7.2	2724900	225496	Kazakh	right	Asia	TRUE	Islam
+Chile	Chilean Peso	18549457	24.5	756102	300686	Spanish	right	South America	TRUE	Christianity
+Chad	Central African Cfa Franc	18523165	14.4	1284000	16799	Arabic	right	Africa	TRUE	Islam
+Senegal	West African Cfa Franc	18384660	93.5	196722	27775	French	right	Africa	TRUE	Islam
+Romania	Romanian Leu	18326327	76.9	238391	300690	Romanian	right	Europe	TRUE	Christianity
+Guatemala	Quetzal	17980803	165.1	108889	95003	Spanish	right	North America	TRUE	Christianity
+Ecuador	United States Dollar	17483326	61.7	283561	115049	Spanish	right	South America	TRUE	Christianity
+Netherlands	Euro	17463930	420.4	41543	1572	Dutch	right	Europe	TRUE	Christianity
+Cambodia	Riel	16891245	93.3	181035	29504	Khmer	right	Asia	TRUE	Buddhism
+Zimbabwe	Zimbabwean ZiG	15418674	39.5	390757	26418	English	left	Africa	TRUE	Christianity
+Benin	West African Cfa Franc	14219908	126.3	112622	17396	French	right	Africa	TRUE	Christianity
+Guinea	Guinean Franc	13607249	55.3	245857	20846	French	right	Africa	TRUE	Islam
+Rwanda	Rwandan Franc	13400541	508.8	26338	13312	Kinyarwanda	right	Africa	TRUE	Christianity
+Burundi	Burundian Franc	13162952	473	27830	4032	Kirundi	right	Africa	TRUE	Christianity
+Somalia	Somali Shilling	12693796	19.9	637657	10420	Somali	right	Africa	TRUE	Islam
+Bolivia	Boliviano	12186079	11.1	1098581	44008	Spanish	right	South America	TRUE	Christianity
+South Sudan	South Sudanese Pound	12118379	18.8	644329	4616	Arabic	right	Africa	TRUE	Christianity
+Tunisia	Tunisian Dinar	11976182	73.2	163610	46181	Arabic	right	Africa	TRUE	Islam
+Belgium	Euro	11913633	390.3	30528	582643	Dutch	right	Europe	TRUE	Christianity
+Haiti	Gourde	11470261	413.3	27750	18751	French	right	North America	TRUE	Christianity
+Jordan	Jordanian Dinar	11086716	124.1	89342	47452	Arabic	right	Asia	TRUE	Islam
+Cuba	Cuban Peso	10985974	99.1	110860	147193	Spanish	right	North America	TRUE	Christianity
+Dominican Republic	Dominican Peso	10790744	221.7	48670	113537	Spanish	right	North America	TRUE	Christianity
+Czech Republic	Czech Koruna	10706242	135.8	78867	290527	Czech	right	Europe	TRUE	No Religion
+Sweden	Swedish Krona	10536338	23.4	450295	591188	Swedish	right	Europe	TRUE	No Religion
+Greece	Euro	10497595	79.6	131957	217285	Greek	right	Europe	TRUE	Christianity
+Azerbaijan	Azerbaijani Manat	10420515	120.3	86600	78721	Azerbaijani	right	Asia	TRUE	Islam
+Portugal	Euro	10223150	111	92090	254849	Portuguese	right	Europe	TRUE	Christianity
+United Arab Emirates	United Arab Emirates Dirham	9973449	119.3	83600	507063	Arabic	right	Asia	TRUE	Islam
+Papua New Guinea	Kina	9819350	21.2	462840	31609	English	left	Oceania	TRUE	Christianity
+Hungary	Hungarian Forint	9670009	103.9	93028	177337	Hungarian	right	Europe	TRUE	Christianity
+Honduras	Honduran Lempira	9571352	85.4	112090	31717	Spanish	right	North America	TRUE	Christianity
+Belarus	Belarusian Ruble	9383853	45.2	207600	72873	Belarusian	right	Europe	TRUE	Christianity
+Tajikistan	Tajikistani Somoni	9245937	64.2	144100	10492	Tajik	right	Asia	TRUE	Islam
+Israel	New Shekel	9043387	412.2	21937	525002	Hebrew	right	Asia	TRUE	Judaism
+Austria	Euro	8940860	106.6	83871	470302	German	right	Europe	TRUE	Christianity
+Sierra Leone	Leone	8908040	124.2	71740	3481	English	right	Africa	TRUE	Islam
+Togo	West African Cfa Franc	8703961	153.3	56785	8087	French	right	Africa	TRUE	Christianity
+Switzerland	Swiss Franc	8563760	207.5	41277	818426	German	right	Europe	TRUE	Christianity
+Laos	Lao Kip	7852377	33.2	236800	15362	Lao	right	Asia	TRUE	Buddhism
+Paraguay	Paraguayan Guaranã­	7439863	18.3	406752	41722	Spanish	right	South America	TRUE	Christianity
+Hong Kong	Hong Kong Dollar	7288167	6577.8	1108	359838	Chinese	left	Asia	FALSE	No Religion
+Libya	Libyan Dinar	7252573	4.1	1759540	40537	Arabic	right	Africa	TRUE	Islam
+Bulgaria	Bulgarian Lev	6827736	61.6	110879	90213	Bulgarian	right	Europe	TRUE	Christianity
+Serbia	Serbian Dinar	6693375	86.4	77474	9397	Serbian	right	Europe	TRUE	Christianity
+El Salvador	United States Dollar	6602370	313.8	21041	32488	Spanish	right	North America	TRUE	Christianity
+Nicaragua	Nicaraguan Cordoba	6359689	48.8	130370	15671	Spanish	right	North America	TRUE	Christianity
+Eritrea	Nakfa	6274796	53.4	117600	2383	Tigrinya	right	Africa	TRUE	Islam
+Kyrgyzstan	Kyrgyz Som	6122781	30.6	199951	12560	Kyrgyz	right	Asia	TRUE	Islam
+Singapore	Singapore Dollar	5975383	8310.7	719	466788	English	left	Asia	TRUE	Buddhism
+Denmark	Danish Krone	5946984	138	43094	400167	Danish	right	Europe	FALSE	No Religion
+Turkmenistan	Turkmenistan New Manat	5690818	11.7	488100	67009	Turkmen	right	Asia	TRUE	Islam
+Republic of the Congo	Central African Cfa Franc	5677493	16.6	342000	15344	French	right	Africa	TRUE	Christianity
+Finland	Euro	5614571	16.6	338145	282511	Finnish	right	Europe	TRUE	Christianity
+Norway	Norwegian Krone	5597924	17.3	323802	579422	Norwegian	right	Europe	TRUE	No Religion
+Central African Republic	Central African Cfa Franc	5552228	8.9	622984	2395	Sango	right	Africa	TRUE	Christianity
+Liberia	Liberian Dollar	5506280	49.4	111369	3265	English	right	Africa	TRUE	Christianity
+Slovakia	Euro	5425319	110.6	49035	115304	Slovak	right	Europe	TRUE	Christianity
+Lebanon	Lebanese Pound	5331203	512.6	10400	39303	Arabic	right	Asia	TRUE	Islam
+Ireland	Euro	5323991	75.8	70273	532415	English	left	Europe	TRUE	Christianity
+Costa Rica	Costa Rican Colon	5256612	102.9	51100	68380	Spanish	right	North America	TRUE	Christianity
+New Zealand	New Zealand Dollar	5109702	19	268838	245845	English	left	Oceania	TRUE	Christianity
+Georgia	Georgian Lari	4927228	70.7	69700	24605	Georgian	right	Asia	TRUE	Christianity
+Panama	United States Dollar	4404108	58.4	75420	76522	Spanish	right	North America	TRUE	Christianity
+Mauritania	Mauritanian Ouguiya	4244878	4.1	1030700	10997	Arabic	right	Africa	TRUE	Islam
+Croatia	Euro	4169239	73.7	56594	71552	Croatian	right	Europe	TRUE	Christianity
+Oman	Omani Rial	3833465	12.4	309500	114666	Arabic	right	Asia	TRUE	Islam
+Bosnia and Herzegovina	Convertible Mark	3807764	74.4	51197	24473	Bosnian	right	Europe	TRUE	Islam
+Uruguay	Uruguayan Peso	3416264	19.4	176215	71171	Spanish	right	South America	TRUE	Christianity
+Mongolia	Tugrik	3255468	2.1	1564116	17146	Mongolian	right	Asia	TRUE	Buddhism
+Moldova	Moldovan Leu	3250532	96	33851	14510	Romanian	right	Europe	TRUE	Christianity
+Kuwait	Kuwaiti Dinar	3103580	174.2	17818	175363	Arabic	right	Asia	TRUE	Islam
+Albania	Albanian Lek	3101621	107.9	28748	18916	Albanian	right	Europe	TRUE	Islam
+Puerto Rico	United States Dollar	3057311	335.8	9104	113434	Spanish	right	North America	FALSE	Christianity
+Armenia	Armenian Dram	2989091	100.5	29743	19513	Armenian	right	Asia	TRUE	Christianity
+West Bank		2949246	521.5	5655			right	Asia	FALSE	Islam
+Jamaica	Jamaican Dollar	2820982	256.7	10991	17097	English	left	North America	TRUE	Christianity
+Namibia	Namibian Dollar 	2777232	3.4	824292	12607	English	left	Africa	TRUE	
+Lithuania	Euro	2655755	40.7	65300	70878	Lithuanian	right	Europe	TRUE	Christianity
+Qatar	Qatari Riyal	2532104	218.5	11586	237101	Arabic	right	Asia	TRUE	Islam
+The Gambia	Dalasi	2468569	218.5	11300	2231	English	right	Africa	TRUE	Islam
+Botswana	Botswana Pula	2417596	4.2	581730	20352	English	left	Africa	TRUE	Christianity
+Gabon	Central African Cfa Franc	2397368	9	267667	20132	French	right	Africa	TRUE	Christianity
+Lesotho	Rand	2210646	72.8	30355	2287	English	left	Africa	TRUE	Christianity
+North Macedonia	North Macedonian Denar	2133410	83	25713	13711	Macedonian	right	Europe	TRUE	Christianity
+Slovenia	Euro	2099790	103.6	20273	59981	Slovenian	right	Europe	TRUE	Christianity
+Guinea-Bissau	West African Cfa Franc	2078820	57.5	36125	1574	Portuguese	right	Africa	TRUE	Islam
+Kosovo	Euro	1964327	180.4	10887		Serbian	right	Europe	FALSE	Islam
+Latvia	Euro	1821750	28.2	64589	40876	Latvian	right	Europe	TRUE	Christianity
+Equatorial Guinea	Central African Cfa Franc	1737695	61.9	28051	11767	Spanish	right	Africa	TRUE	Christianity
+Bahrain	Bahraini Dinar	1553886	2044.6	760	44382	Arabic	right	Asia	TRUE	Islam
+Timor-Leste	United States Dollar	1476042	99.2	14874	3204	Portuguese	left	Asia	TRUE	Christianity
+Trinidad and Tobago	Trinidad And Tobago Dollar	1407460	274.5	5128	30053	English	left	North America	TRUE	Christianity
+Mauritius	Mauritian Rupee	1309448	641.9	2040	12898	English	left	Seven seas (open ocean)	TRUE	Hinduism
+Cyprus	Euro	1308120	141.4	9251	29210	Greek	left	Asia	TRUE	Christianity
+Estonia	Euro	1202762	26.6	45228	38049	Estonian	right	Europe	TRUE	No Religion
+Eswatini	Lilangeni	1130043	65.1	17364	4326	English	left	Africa	TRUE	Christianity
+Djibouti	Djiboutian Franc	976143	42.1	23200	4003	Arabic	right	Africa	TRUE	Islam
+Fiji	Fijian Dollar	947760	51.9	18274	4979	English	left	Oceania	TRUE	Christianity
+Comoros	Comorian Franc	888378	397.5	2235	1246	Arabic	right	Africa	TRUE	Islam
+Bhutan	Ngultrum	876181	22.8	38394	2898	Dzongkha	left	Asia	TRUE	Buddhism
+Guyana	Guyanese Dollar	791739	3.7	214969	14718	English	left	South America	TRUE	Christianity
+Solomon Islands	Solomon Islands Dollar	714766	24.7	28896	1597	English	left	Oceania	TRUE	Christianity
+Luxembourg	Euro	660924	255.6	2586	81530	Luxembourgish	right	Europe	TRUE	Christianity
+Macau	Hong Kong Dollar	639971	22856.1	28	24042	Chinese	left	Asia	FALSE	Buddhism
+Suriname	Surinamese Dollar	639759	3.9	163820	3620	Dutch	left	South America	TRUE	Christianity
+Cape Verde	Cape Verdean Escudo	603901	149.7	4033	2314	Portuguese	right	Africa	TRUE	Christianity
+Montenegro	Euro	602445	43.6	13812	6229	Montenegrin	right	Europe	TRUE	Christianity
+Western Sahara	Moroccan Dirham	565581	2.1	272000		Arabic	right	Africa	FALSE	Islam
+Maldives	Maldivian Rufiyaa	521021	1748.4	298	6170	Divehi	left	Seven seas (open ocean)	TRUE	Islam
+Brunei	Brunei Dollar	484991	84.1	5765	16681	Malay	left	Asia	TRUE	Islam
+Malta	Euro	467138	1478.3	316	18100	Maltese	left	Europe	TRUE	Christianity
+Belize	Belize Dollar	419137	18.3	22966	2830	English	right	North America	TRUE	Christianity
+Guadeloupe	Euro	378561	232.5	1628	9462	French	right	North America	FALSE	Christianity
+Iceland	Icelandic Krona	360872	3.5	103000	28064	Icelandic	right	Europe	TRUE	Christianity
+The Bahamas	Bahamian Dollar	358508	25.8	13880	12897	English	left	North America	TRUE	Christianity
+Vanuatu	Vanuatu Vatus	313046	25.7	12189	985	Bislama	right	Oceania	TRUE	Christianity
+Barbados	Barbadian Dollar	303431	705.7	430	5699	English	left	North America	TRUE	Christianity
+French Polynesia	Cfp Franc	301488	72.4	4167	5814	French	right	Oceania	FALSE	Christianity
+New Caledonia	Cfp Franc	300682	16.2	18575	9623	French	right	Oceania	FALSE	Christianity
+São Tomé and Príncipe	Sã£O Tomã© And Prã­Ncipe Dobra	220372	228.6	964	546	Portuguese	right	Africa	TRUE	Christianity
+Samoa	Samoan Tala	207501	73.3	2831	857	Samoan	left	Oceania	TRUE	Christianity
+Guam	United States Dollar	169330	311.3	544		English	right	Oceania	FALSE	Christianity
+Saint Lucia	Eastern Caribbean Dollar	167591	272.1	616	2165	English	left	North America	TRUE	Christianity
+Curaçao	Netherlands Antillean Guilder	152849	344.3	444		English	right	North America	FALSE	Christianity
+Aruba	Aruban Florin	123702	687.2	180	3544	Dutch	right	North America	FALSE	Christianity
+Kiribati	Australian Dollar	115372	142.3	811	223	English	left	Oceania	TRUE	Christianity
+Grenada	Eastern Caribbean Dollar	114299	332.3	344	1192	English	left	North America	TRUE	Christianity
+Tonga	Tongan Paʻanga	105221	140.9	747	488	English	left	Oceania	TRUE	Christianity
+United States Virgin Islands	United States Dollar	104917	54.9	1910		English	left	North America	FALSE	Christianity
+Jersey	Pound Sterling	102785	886.1	116		English	left	Europe	FALSE	Christianity
+Antigua and Barbuda	Eastern Caribbean Dollar	101489	229.1	443	1770	English	left	North America	TRUE	Christianity
+Saint Vincent and the Grenadines	Eastern Caribbean Dollar	100804	259.1	389	946	English	left	North America	TRUE	Christianity
+Federated States of Micronesia	United States Dollar	100319	142.9	702	427	English	right	Oceania	TRUE	Christianity
+Seychelles	Seychellois Rupee	97617	214.5	455	1994	English	left	Seven seas (open ocean)	TRUE	Christianity
+Isle of Man	Manx Pound	91840	160.6	572		Manx	left	Europe	FALSE	Christianity
+Andorra	Euro	85468	182.6	468	3376	Catalan	right	Europe	TRUE	Christianity
+Marshall Islands	United States Dollar	80966	447.3	181	279	English	right	Oceania	TRUE	Christianity
+Dominica	Eastern Caribbean Dollar	74656	99.4	751	612	English	left	North America	TRUE	Christianity
+Bermuda	Bermudian Dollar	72576	1344	54	7546	English	left	North America	FALSE	Christianity
+Guernsey	Pound Sterling	67642	867.2	78		English	left	Europe	FALSE	Christianity
+Cayman Islands	Cayman Islands Dollar	65483	248	264	6281	English	left	North America	FALSE	Christianity
+Turks and Caicos Islands	United States Dollar	59367	62.6	948	1138	English	left	North America	FALSE	Christianity
+Greenland	Danish Krone	57777	0	2166086	2926	Greenlandic	right	North America	FALSE	Christianity
+Saint Kitts and Nevis	Eastern Caribbean Dollar	54817	210	261	979	English	left	North America	TRUE	Christianity
+Faroe Islands	Faroese Krona	52600	37.8	1393		Faroese	right	Europe	FALSE	Christianity
+Northern Mariana Islands	United States Dollar	51295	110.5	464		English	right	Oceania	FALSE	Christianity
+Sint Maarten	Netherlands Antillean Guilder	45677	1343.4	34		English	right	North America	FALSE	Christianity
+American Samoa	United States Dollar	44620	199.2	224	709	English	right	Oceania	FALSE	Christianity
+Liechtenstein	Swiss Franc	39993	250	160	7757	German	right	Europe	TRUE	Christianity
+British Virgin Islands	United States Dollar	39369	260.7	151		English	left	North America	FALSE	Christianity
+San Marino	Euro	34892	572	61	1780	Italian	right	Europe	TRUE	Christianity
+Saint-Martin	Euro	32897	657.9	50		French	right	North America	FALSE	Christianity
+Monaco	Euro	31597	15798.5	2	8772	French	right	Europe	TRUE	Christianity
+Caribbean Netherlands	United States Dollar	30397			725	English	right	North America	FALSE	Christianity
+Gibraltar	Gibraltar Pound	29629	4232.7	7		English	right	Europe	FALSE	Christianity
+Palau	United States Dollar	21779	47.4	459	225	English	right	Oceania	TRUE	Christianity
+Anguilla	Eastern Caribbean Dollar	19079	209.7	91		English	left	North America	FALSE	Christianity
+Wallis and Futuna	Cfp Franc	15929	112.2	142		French	right	Oceania	FALSE	Christianity
+Tuvalu	Tuvaluan Dollar	11639	447.7	26	59	English	left	Oceania	TRUE	Christianity
+Nauru	Australian Dollar	9852	469.1	21	147	Nauruan	left	Oceania	TRUE	Christianity
+Cook Islands	Cook Islands Dollar	7939	33.6	236		English	left	Oceania	FALSE	Christianity
+Saint Helena, Ascension and Tristan da Cunha	Pound Sterling	7935	20.1	394		English	left	Seven seas (open ocean)	FALSE	Christianity
+Saint Barthélemy	Euro	7093	283.7	25		French	right	North America	FALSE	Christianity
+Montserrat	Eastern Caribbean Dollar	5440	53.3	102		English	left	North America	FALSE	Christianity
+Saint Pierre and Miquelon	Euro	5195	21.5	242		French	right	North America	FALSE	Christianity
+Falkland Islands	Falkland Islands Pound	3662	0.3	12173		English	left	South America	FALSE	Christianity
+Svalbard and Jan Mayen	Norwegian Krone	2926	0	62045		Norwegian	right	Europe	FALSE	Christianity
+Christmas Island	Australian Dollar	2205	16.3	135		English	left	Asia	FALSE	Buddhism
+Niue	New Zealand Dollar	2000	7.7	260		English	left	Oceania	FALSE	Christianity
+Norfolk Island	Australian Dollar	1748	48.6	36		English	left	Oceania	FALSE	Christianity
+Tokelau	New Zealand Dollar	1647	137.3	12		English	left	Insular Oceania	FALSE	Christianity
+Vatican City	Euro	1000		0		Italian	right	Europe	FALSE	Christianity
+Cocos (Keeling) Islands	Australian Dollar	596	42.6	14		English	left	Oceania	FALSE	Islam
+United States Minor Outlying Islands	United States Dollar	300	6.1	49.26		English	right	North America	FALSE	Christianity
+Pitcairn Islands	New Zealand Dollar	50	1.1	47		English	left	Oceania	FALSE	Christianity
+Akrotiri							left		FALSE	Christianity
+British Indian Ocean Territory	United States Dollar			60		English	right	Seven seas (open ocean)	FALSE	Islam
+Dhekelia							left		FALSE	Christianity
+French Guiana	Euro					French	right	South America	FALSE	Christianity
+French Southern and Antarctic Lands	Euro					French	right	Seven seas (open ocean)	FALSE	
+Gaza Strip							right	Asia	FALSE	Islam
+Martinique	Euro					French	right	North America	FALSE	Christianity
+Mayotte	Euro					French	right	Africa	FALSE	Islam
+Paracel Islands							right		FALSE	
+Réunion	Euro					French	right	Africa	FALSE	Christianity
+South Georgia and the South Sandwich Islands	Pound Sterling					English	left	Seven seas (open ocean)	FALSE	
+Heard Island and McDonald Islands				412			left	Seven seas (open ocean)	FALSE	
+Bouvet Island				49			right	Antarctica	FALSE	
+Antarctica				14200000				Antarctica	FALSE	No Religion
