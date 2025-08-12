@@ -14,7 +14,7 @@ Bioinformática aplicada
 
 - [Curso Universidad Valencia](https://mural.uv.es/oshuso/81_introduccin_a_linux.html)  
 - [Ayuda Linux](https://ayudalinux.com/)  
-- [Linux Commands](https://linuxconfig.org/linux-commands)  
+- [Linux Commands](https://linuxcommand.org/index.php)  
 - [Free code camp](https://www.freecodecamp.org/espanol/news/comandos-de-linux/)  
 - [Ayuda Ubuntu](https://www.guia-ubuntu.com/index.php/Comandos)  
 <!-- [Otro curso](https://rsg-ecuador.github.io/unix.bioinfo.rsgecuador/content/Curso_basico/01_Unix_GNU-Linux/0_Resumen.html)-->
