@@ -1,7 +1,7 @@
 ### Temas
 
 Tema 1. Introducción al SO Unix/Linux. (aprox. 8 horas)
-	1.1. Comandos Linux (wget?, scp?)
+	1.1. Comandos Linux
 	1.2. R y RStudio
 
 Tema 2. Obtención de datos biológicos masivos. Bases de datos biológicas. (aprox. 2 horas)
