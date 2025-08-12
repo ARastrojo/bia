@@ -18,21 +18,26 @@ Tema 4. Análisis avanzado e integración de datos -ómicos (de tecnologías óm
 
 Tema 5. Nuevas herramientas genéticas adaptadas a la biología celular. (aprox. 4 horas) -  UCM
 
+### Manuales para usar Linux
+
+- WSL
+- Bash on Mac (install Brew, y luego gnu bash, y luego chsh -s /bin/bash p /usr/local/bin/bash --> https://www.howtogeek.com/444596/how-to-change-the-default-shell-to-bash-in-macos-catalina/)
+- AWS Free Tier (750h,  5Gb): https://aws.amazon.com/es/free/, https://eu-north-1.console.aws.amazon.com/ec2/
+- 
 
 ### Conexión PC virtuales
 
 - Requisitos máquinas locales UAM (ninguno, está todo listo)
 	- En la complu se van a conectar desde sus "portátiles"
 	- ¿Cómo le damos acceso a los docentes de la UCM si no tienen VPN-UAM?
+	- Todos/as los/as estudiantes tiene VPN UAM??
 
 - Requisitos para Windows (UDS y Microsotf remote Desktop (ahora Windows app))
 - Requisitos para Mac (ver manual MUBBC)
 - Requisitos Linux?? Yo lo hice desde mi viejo mac con Xubuntu (no creo que nadie quiera)
 
 
-### Manual para crear cuenta gratuita en AWS (opcinal)
-AWS Free Tier (750h,  5Gb): https://aws.amazon.com/es/free/
-https://eu-north-1.console.aws.amazon.com/ec2/
+
 
 
 ### Galaxy

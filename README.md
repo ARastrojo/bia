@@ -19,7 +19,6 @@ Bioinformática aplicada
 - [Ayuda Ubuntu](https://www.guia-ubuntu.com/index.php/Comandos)  
 <!-- [Otro curso](https://rsg-ecuador.github.io/unix.bioinfo.rsgecuador/content/Curso_basico/01_Unix_GNU-Linux/0_Resumen.html)-->
 
-
 ### Probar Linux online
 
 - [PC Virtuales UAM](https://pc-virtual.uam.es/): además de la máquina virtual creada para este curso, existe la opción de conectarse a una máquina con _Ubuntu_.  
