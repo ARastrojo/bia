@@ -2,15 +2,25 @@
 
 Bioinformática aplicada
 
-
 <p align="center" width="100%">
     <img width="75%" src="./images/bia_logo.svg">
 </p>
 
+## Recursos
 
-# Recursos
 
-### Cursos linux
+## Conexión PC virtuales 
+
+- [Conexión PC virtuales UAM]()
+    <!--Manual MUBBC-->
+    - Desde salas de informática UAM está todo listo
+    - Requisitos para Windows (UDS y Microsotf remote Desktop (ahora Windows app))
+    - Requisitos para Mac (ver manual MUBBC)
+    - Requisitos Linux?? Yo lo hice desde mi viejo mac con Xubuntu (no creo que nadie quiera)
+
+- [VPN de la UAM]()
+
+### Cursos Linux
 
 - [Curso Universidad Valencia](https://mural.uv.es/oshuso/81_introduccin_a_linux.html)  
 - [Ayuda Linux](https://ayudalinux.com/)  
@@ -22,9 +32,21 @@ Bioinformática aplicada
 ### Probar Linux online
 
 - [PC Virtuales UAM](https://pc-virtual.uam.es/): además de la máquina virtual creada para este curso, existe la opción de conectarse a una máquina con _Ubuntu_.  
-- [Distrosea](https://distrosea.com): muchas distrobuciones de Linux para probar.  
+- [Distrosea](https://distrosea.com): muchas distribuciones de Linux para probar.  
 - [OnWorks](https://www.onworks.net/): varios sistemas operativos para probar como Linux, Windows (un clon de Windows 10), MacOs (en realidad PearOS, que es un clon), etc.  
+- [Amazon Web Servises (AWS)]()
 
 ### Extensiones para el navegador para testar comandos Linux
 
-- [Firefox](https://addons.mozilla.org/es-ES/firefox/addon/xlinux-console-terminal/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+- [Firefox](https://addons.mozilla.org/es-ES/firefox/addon/xlinux-console-terminal/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)  
+
+### Instalar Linux
+
+- [Instalar Windows Subsystem for Linux (WSL)]()
+- [Bash  en Mac]() Bash on Mac (install Brew, y luego gnu bash, y luego chsh -s /bin/bash p /usr/local/bin/bash --> https://www.howtogeek.com/444596/how-to-change-the-default-shell-to-bash-in-macos-catalina/)
+- [Instalar Linux]()
+
+### Herramientas online para análisis NGS
+
+- [Galaxy Europa](https://usegalaxy.eu/)
+
