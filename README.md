@@ -34,7 +34,7 @@ Bioinformática aplicada
 - [PC Virtuales UAM](https://pc-virtual.uam.es/): además de la máquina virtual creada para este curso, existe la opción de conectarse a una máquina con _Ubuntu_.  
 - [Distrosea](https://distrosea.com): muchas distribuciones de Linux para probar.  
 - [OnWorks](https://www.onworks.net/): varios sistemas operativos para probar como Linux, Windows (un clon de Windows 10), MacOs (en realidad PearOS, que es un clon), etc.  
-- [Amazon Web Servises (AWS)](https://aws.amazon.com/). Tutorial [aquí]()
+- [Amazon Web Servises (AWS)](https://aws.amazon.com/). Tutorial [aquí](https://dauam-my.sharepoint.com/:b:/g/personal/alberto_rastrojo_uam_es/EYDbKpH99HVKu8HXLwZ2_TkBzNpnr097Cyw4ZT0H_R8eZg?e=hZspVj)
 
 ### Extensiones para el navegador para testar comandos Linux
 
@@ -42,7 +42,7 @@ Bioinformática aplicada
 
 ### Instalar Linux
 
-- Crear una máquina virtual con [VirtualBox](https://www.virtualbox.org/). Tutorial [aquí]()
+- Crear una máquina virtual con [VirtualBox](https://www.virtualbox.org/). Tutorial [aquí](https://dauam-my.sharepoint.com/:b:/g/personal/alberto_rastrojo_uam_es/EUBd7ro-8BdBuK4HOaAIswUB4tP-mbTKERwN7JwwkDwnfQ?e=Hn6SDg)
 - [Instalar Windows Subsystem for Linux (WSL)]()
 - [Bash  en Mac]() Bash on Mac (install Brew, y luego gnu bash, y luego chsh -s /bin/bash p /usr/local/bin/bash --> https://www.howtogeek.com/444596/how-to-change-the-default-shell-to-bash-in-macos-catalina/)
 - [Instalar Linux]()
