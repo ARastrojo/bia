@@ -29,7 +29,7 @@ Tema 2. Obtención de datos biológicos masivos. Bases de datos biológicas. (ap
 		- Descargamos con fasterq-dump lecturas de SARS
 
 
-		ex: SRR34798504
+		ex: SRR34798504 / ref NC_045512.2 (wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/858/895/GCF_009858895.2_ASM985889v3/GCF_009858895.2_ASM985889v3_genomic.fna.gz)
 
 
 	Evaluación: tarea de descargar algún genoma, contar el número de cromosomas, logitud total, etc.
@@ -58,7 +58,7 @@ Tema 4. Análisis avanzado e integración de datos -ómicos (de tecnologías óm
 		@MZ
 			- dRADseq y ddRADseq. Conceptos básicos - teórico.  
 
-		Evaluación: ensamblar un genoma y anotarlo. Presentar ensamblaje conseguido (Tamaño total, N50, número de genes predichos (cuantos codificantes, tRNA, rRNAs, etc…)), cobertura media, etc….). Detectar mutaciones más importantes? Yo usaría genomas virales (de fagos, que son relativamente grandes y no tienen demasiadas repeticiones)
+		Evaluación: ensamblar un genoma y anotarlo (que busquen ellos las lecturas en el SRA? en lugar de simularlas??). Presentar ensamblaje conseguido (Tamaño total, N50, número de genes predichos (cuantos codificantes, tRNA, rRNAs, etc…)), cobertura media, etc….). Detectar mutaciones más importantes? Yo usaría genomas virales (de fagos, que son relativamente grandes y no tienen demasiadas repeticiones)
 
 			4.2 Transcriptómica - UCM
 			4.3 Epigenómica y regulación - UCM
