@@ -13,12 +13,12 @@ Bioinformática aplicada
 
 - [Conexión PC virtuales UAM]()
     <!--Manual MUBBC-->
-    - Desde salas de informática UAM está todo listo
+    - Desde salas de informática UAM está todo listo.  
     - Requisitos para Windows (UDS y Microsotf remote Desktop (ahora Windows app))
-    - Requisitos para Mac (ver manual MUBBC)
+    - [Requisitos para Mac](./resources/PC_virtuales_desde_Mac.md)
     - Requisitos Linux?? Yo lo hice desde mi viejo mac con Xubuntu (no creo que nadie quiera)
 
-- [VPN de la UAM]()
+- [VPN de la UAM](https://www.uam.es/uam/tecnologias-informacion/servicios-ti/acceso-remoto-red)
 
 ### Cursos Linux
 
