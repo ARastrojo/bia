@@ -43,7 +43,7 @@ Desde fuera del campus de la UAM además hay que conectarse a la VPN de la UAM:
 
 - Crear una máquina virtual con [VirtualBox](https://www.virtualbox.org/). Tutorial [aquí](https://dauam-my.sharepoint.com/:b:/g/personal/alberto_rastrojo_uam_es/EUBd7ro-8BdBuK4HOaAIswUB4tP-mbTKERwN7JwwkDwnfQ?e=Hn6SDg).  
 - [Instalar Windows Subsystem for Linux (WSL)](./resources/Linux_en_Windows_WSL.md).  
-- [Bash en Mac](Linux_en_Mac.md).  
+- [Bash en Mac](./resources/Linux_en_Mac.md).  
 - [Instalar Ubuntu](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview). Os dejamos el tutorial de cómo instalar Ubuntu directamente en vuestro equipo.  
 
 ### Herramientas online para análisis NGS
