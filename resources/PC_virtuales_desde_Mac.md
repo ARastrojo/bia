@@ -1,27 +1,30 @@
+Para poder conectarnos al sistema de PC virtuales de la UAM desde un ordenador Mac debemos instalar algunas cosas adicionales.  
 
+Como en Windows debemos instalar:  
 
+- Cliente UDS (Se descarga desde https://pc-virtual.uam.es/uds/page/client-download)
+- Microsoft remote desktop, ahora llamado Windows app (se instala desla la App store)
 
-To be able to run virtual machines in a Mac host you will need to install some additionally programs. 
+Aemás necesitamos instalar lo siguiente:
 
-You will need, as Windows users:
+- [Brew](https://brew.sh/): un gestor de instalación de paquetes que necesitaremos para instalar el resto de componentes adicionales. 
 
-- UDS client (Download from  https://laboratoriovirtual.eps.uam.es)
-- Microsoft remote desktop (app store)
+Abrimos un terminal y pegamos el siguiente comando:
 
-Additionally, we will need to install:
-
-- Install [Brew](https://brew.sh/)
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-- [Xfreerdp](https://formulae.brew.sh/formula/freerdp) from brew:
+- [Xfreerdp](https://formulae.brew.sh/formula/freerdp): implementación del protocolo de escritorio remoto a través de X11. 
+
 ```bash
 brew install freerdp
 ```
-- [Xquartz](https://www.xquartz.org/)
+- [Xquartz](https://www.xquartz.org/): gestor de ventanas X11. 
+
 ```bash
 brew install --cask xquartz 
 # Can also be install by downloading and installation package from the web
 ````
-Finally, we must restart our mac. 
+
+Finalmente reiniciamos el equipo y ya podremos conectarnos a los PC virtuales de la UAM (si lo hacemos desde fuera del campus debemos estar conectados a la [VPN de la UAM](https://www.uam.es/uam/tecnologias-informacion/servicios-ti/acceso-remoto-red))
