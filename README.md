@@ -32,7 +32,7 @@ Desde fuera del campus de la UAM además hay que conectarse a la VPN de la UAM:
 
 - [PC Virtuales UAM](https://pc-virtual.uam.es/): además de la máquina virtual creada para este curso, existe la opción de conectarse a una máquina con _Ubuntu_.  
 - [Distrosea](https://distrosea.com): muchas distribuciones de Linux para probar.  
-- [OnWorks](https://www.onworks.net/): varios sistemas operativos para probar como Linux, Windows (un clon de Windows 10), MacOs (en realidad PearOS, que es un clon), etc.  
+- [OnWorks](https://www.onworks.net/): varios sistemas operativos para probar como Linux, Windows (un clon de Windows 10), Mac OS (en realidad PearOS, que es un clon), etc.  
 - [Amazon Web Servises (AWS)](https://aws.amazon.com/). Tutorial [aquí](https://dauam-my.sharepoint.com/:b:/g/personal/alberto_rastrojo_uam_es/EYDbKpH99HVKu8HXLwZ2_TkBzNpnr097Cyw4ZT0H_R8eZg?e=hZspVj).  
 
 ### Extensiones para el navegador para testar comandos Linux
