@@ -1,15 +1,3 @@
----
-title: "Introducción a R y RStudio"
-author: "Documento convertido desde Word"
-date: "`r Sys.Date()`"
-output:
-  pdf_document: default
-  html_document: default
-  word_document: default
-editor_options:
-  markdown:
-    wrap: sentence
----
 
 Introducción a R y RStudio.
 Instalación de R y RStudio Para utilizar R mediante RStudio tendremos que instalar la versión más actualizada de R previamente a la instalación de RStudio.
