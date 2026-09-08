@@ -33,7 +33,7 @@ Desde fuera del campus de la UAM además hay que conectarse a la VPN de la UAM:
 - [PC Virtuales UAM](https://pc-virtual.uam.es/): además de la máquina virtual creada para este curso, existe la opción de conectarse a una máquina con _Ubuntu_.  
 - [Distrosea](https://distrosea.com): muchas distribuciones de Linux para probar.  
 - [OnWorks](https://www.onworks.net/): varios sistemas operativos para probar como Linux, Windows (un clon de Windows 10), Mac OS (en realidad PearOS, que es un clon), etc.  
-- [Amazon Web Servises (AWS)](https://aws.amazon.com/). Tutorial [aquí](https://dauam-my.sharepoint.com/:b:/g/personal/alberto_rastrojo_uam_es/EYDbKpH99HVKu8HXLwZ2_TkBzNpnr097Cyw4ZT0H_R8eZg?e=hZspVj).  
+- [Amazon Web Servises (AWS)](https://aws.amazon.com/). Tutorial [aquí]([https://dauam-my.sharepoint.com/:b:/g/personal/alberto_rastrojo_uam_es/EYDbKpH99HVKu8HXLwZ2_TkBzNpnr097Cyw4ZT0H_R8eZg?e=hZspVj](https://drive.google.com/file/d/1YOJQL7BNoFQpQ3JbPjc8WRYDS6jh0wQS/view?usp=sharing).  
 
 <!--
 ### Extensiones para el navegador para testar comandos Linux
@@ -43,7 +43,7 @@ Desde fuera del campus de la UAM además hay que conectarse a la VPN de la UAM:
 
 ### Instalar Linux
 
-- Crear una máquina virtual con [VirtualBox](https://www.virtualbox.org/). Tutorial [aquí](https://dauam-my.sharepoint.com/:b:/g/personal/alberto_rastrojo_uam_es/EUBd7ro-8BdBuK4HOaAIswUB4tP-mbTKERwN7JwwkDwnfQ?e=Hn6SDg).  
+- Crear una máquina virtual con [VirtualBox](https://www.virtualbox.org/). Tutorial [aquí]([https://dauam-my.sharepoint.com/:b:/g/personal/alberto_rastrojo_uam_es/EUBd7ro-8BdBuK4HOaAIswUB4tP-mbTKERwN7JwwkDwnfQ?e=Hn6SDg](https://drive.google.com/file/d/1D-FV4SuUAeP7Z_j7yQx2ZuV4DxmKhyUR/view?usp=sharing).  
 - [Instalar Windows Subsystem for Linux (WSL)](./resources/Linux_en_Windows_WSL.md).  
 - [Bash en Mac](./resources/Linux_en_Mac.md).  
 - [Instalar Ubuntu](https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview). Os dejamos el tutorial de cómo instalar Ubuntu directamente en vuestro equipo.  
