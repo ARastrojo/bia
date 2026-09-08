@@ -25,7 +25,7 @@ Desde fuera del campus de la UAM además hay que conectarse a la VPN de la UAM:
 - [Ayuda Linux](https://ayudalinux.com/).  
 - [Linux Commands](https://linuxcommand.org/index.php).  
 - [Free code camp](https://www.freecodecamp.org/espanol/news/comandos-de-linux/).  
-- [Ayuda Ubuntu](https://www.guia-ubuntu.com/index.php/Comandos).  
+<!-- - [Ayuda Ubuntu](https://www.guia-ubuntu.com/index.php/Comandos).  --> 
 <!-- [Otro curso](https://rsg-ecuador.github.io/unix.bioinfo.rsgecuador/content/Curso_basico/01_Unix_GNU-Linux/0_Resumen.html)-->
 
 ### Probar Linux online
@@ -35,9 +35,11 @@ Desde fuera del campus de la UAM además hay que conectarse a la VPN de la UAM:
 - [OnWorks](https://www.onworks.net/): varios sistemas operativos para probar como Linux, Windows (un clon de Windows 10), Mac OS (en realidad PearOS, que es un clon), etc.  
 - [Amazon Web Servises (AWS)](https://aws.amazon.com/). Tutorial [aquí](https://dauam-my.sharepoint.com/:b:/g/personal/alberto_rastrojo_uam_es/EYDbKpH99HVKu8HXLwZ2_TkBzNpnr097Cyw4ZT0H_R8eZg?e=hZspVj).  
 
+<!--
 ### Extensiones para el navegador para testar comandos Linux
 
 - [Firefox](https://addons.mozilla.org/es-ES/firefox/addon/xlinux-console-terminal/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search).  
+-->
 
 ### Instalar Linux
 
